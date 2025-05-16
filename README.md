@@ -1,4 +1,4 @@
 # vdemo
 my first git repository.
 <br>
-authotr-Vaibhav Mishra
+author-Vaibhav Mishra
